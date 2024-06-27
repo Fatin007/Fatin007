@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatin</h1>
-<h3 align="center">A gamer, Playing with own life</h3>
+<h4 align="center">Hello! 👋 I'm a Computer Science and Engineering student with a strong passion for problem-solving and software development. I have a solid foundation in Data Structures and Algorithms, which I continuously hone through competitive programming. So far, I have solved over a thousand problems across various online platforms.</h4> <br>
+
+<h4>Currently, I am expanding my skill set by learning Java, adding to my repertoire of programming languages.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatin007&label=Profile%20views&color=0e75b6&style=flat" alt="fatin007" /> </p>
 
