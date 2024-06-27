@@ -1,27 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fatin</h1>
-<h4 align="center">Hello! 👋 I'm a Computer Science and Engineering student with a strong passion for problem-solving and software development. I have a solid foundation in Data Structures and Algorithms, which I continuously hone through competitive programming. So far, I have solved over a thousand problems across various online platforms.</h4> <br>
-
-<h4>Currently, I am expanding my skill set by learning Java, adding to my repertoire of programming languages.</h4>
+<h4 align="center">A Computer Science and Engineering student with a strong passion for problem-solving and software development. I have a solid foundation in Data Structures and Algorithms, which I continuously hone through competitive programming. So far, I have solved over a thousand problems across various online platforms.</h4> <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatin007&label=Profile%20views&color=0e75b6&style=flat" alt="fatin007" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatin007" alt="fatin007" /></a> </p>
-
-- 🔭 I’m currently working on **belly buildup**
-
-- 🌱 I’m currently learning **eating style**
-
-- 👯 I’m looking to collaborate on **fat people**
-
-- 🤝 I’m looking for help with **belly**
-
-- 👨‍💻 All of my projects are available at [fatin69.com](fatin69.com)
-
-- 💬 Ask me about **eating**
-
-- 📫 How to reach me **mohammadfatinnur2003@gmail.com**
-
-- ⚡ Fun fact **I think I'm slim**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
