@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://fb.com/fatin.404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fatin.404" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/fatin007" target="blank"><img align="center" src="https://images2.imgbox.com/de/d5/ysz6tzgq_o.jpeg" alt="fatin007" height="30" width="30" /></a>
-<a href="https://codeforces.com/profile/fatin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="fatin" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/fatin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="fatin" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
