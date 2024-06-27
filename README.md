@@ -9,7 +9,7 @@ Hello! 👋 I'm a Computer Science and Engineering student with a strong passion
 | Platform  Profile                                      | Max-Rating | Problems Solved | Rank       |
 |--------------------------------------------------------|------------|-----------------|------------|
 | [Codeforces](https://codeforces.com/profile/Fatin) | 1290       | 700+             | Pupil      |
-| [Codechef](https://www.codechef.com/users/fatin007) | 1630       | 290+             | Three Star |
+| [Codechef](https://www.codechef.com/users/fatin007) | 1630       | 290+             | 3 Star |
 
 Feel free to check out my profiles and see my progress in competitive programming!
 
