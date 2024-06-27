@@ -15,6 +15,7 @@ Hello! 👋 I'm a Computer Science and Engineering student with a strong passion
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Fatin007&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
