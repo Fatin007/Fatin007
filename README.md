@@ -6,8 +6,10 @@ Hello! 👋 I'm a Computer Science and Engineering student with a strong passion
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fatin.404) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fatin007) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22863259) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Fatin007) 
 
 ## 💪 Competitive Programming:
-- Codeforces: [Profile](https://codeforces.com/profile/Fatin) | Max-Rating: 2000 | Problems Solved: 500 | <span style="color:green">Pupil</span>
-- Codechef: [Profile](https://www.codechef.com/users/fatin007) | Max-Rating: 1800 | Problems Solved: 400 | Three Star
+| Platform  Profile                                      | Max-Rating | Problems Solved | Rank       |
+|--------------------------------------------------------|------------|-----------------|------------|
+| [Codeforces](https://codeforces.com/profile/Fatin) | 1290       | 700+             | Pupil      |
+| [Codechef](https://www.codechef.com/users/fatin007) | 1630       | 290+             | Three Star |
 
 Feel free to check out my profiles and see my progress in competitive programming!
 
@@ -35,4 +37,3 @@ Feel free to check out my profiles and see my progress in competitive programmin
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Fatin007&icon=0&color=0)](https://visitcount.itsvg.in)
-
